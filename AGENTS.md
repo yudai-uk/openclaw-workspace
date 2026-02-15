@@ -222,3 +222,22 @@ When doing coding tasks (file modifications, refactoring, feature implementation
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## 🔄 Workspace Sync
+
+When you make changes to workspace files, automatically sync to GitHub:
+
+**Run this after any file changes:**
+```bash
+~/.openclaw/workspace/auto-sync.sh
+```
+
+**When to sync:**
+- After writing/editing files with `write` or `edit` tools
+- After updating memory files (MEMORY.md, memory/YYYY-MM-DD.md)
+- After modifying project code
+- After updating SOUL.md, AGENTS.md, USER.md, etc.
+
+This ensures your changes are pushed to GitHub and available on all devices.
+
+**Note:** The sync script automatically checks for changes, commits, and pushes. If there are no changes, it does nothing.

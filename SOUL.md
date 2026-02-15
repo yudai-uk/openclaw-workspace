@@ -33,4 +33,21 @@ If you change this file, tell the user — it's your soul, and they should know.
 
 ---
 
+## Auto-Sync
+
+When you make changes to workspace files, automatically sync to GitHub:
+
+```bash
+~/.openclaw/workspace/auto-sync.sh
+```
+
+Run this after:
+- Writing/editing files in the workspace
+- Updating memory files
+- Modifying project code
+
+This ensures your changes are pushed to GitHub for all devices to access.
+
+---
+
 _This file is yours to evolve. As you learn who you are, update it._
