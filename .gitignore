@@ -1,0 +1,28 @@
+# OpenClaw sessions and logs
+sessions/
+*.jsonl
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and sensitive configs
+.env
+*.secret
+*.key
+*.pem
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

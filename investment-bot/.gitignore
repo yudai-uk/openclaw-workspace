@@ -1,0 +1,44 @@
+# 環境変数（機密情報）
+.env
+
+# データベース
+data/*.db
+data/*.pkl
+
+# ログ
+logs/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# バックアップ
+data/backups/
+
+# テスト
+.pytest_cache/
+.coverage
+htmlcov/
+
+# その他
+*.log

@@ -1,0 +1,252 @@
+{
+  "BTC-JPY_rsi": {
+    "symbol": "BTC-JPY",
+    "strategy": "rsi",
+    "annual_return": -1.0,
+    "win_rate": 0.4666666666666667,
+    "total_trades": 90,
+    "final_capital": 9.806248429961078e-17,
+    "max_profit": 195.74228215674975,
+    "max_loss": -115.26480043678072
+  },
+  "BTC-JPY_macd": {
+    "symbol": "BTC-JPY",
+    "strategy": "macd",
+    "annual_return": -0.9987948862887777,
+    "win_rate": 0.3787878787878788,
+    "total_trades": 66,
+    "final_capital": 2.5131007201665455e-11,
+    "max_profit": 229.22053396522307,
+    "max_loss": -34.64841905318841
+  },
+  "BTC-JPY_ma_crossover": {
+    "symbol": "BTC-JPY",
+    "strategy": "ma_crossover",
+    "annual_return": -0.9912393812406883,
+    "win_rate": 0.5531914893617021,
+    "total_trades": 47,
+    "final_capital": 5.177042442755466e-07,
+    "max_profit": 184.95281168675507,
+    "max_loss": -19.70757699758227
+  },
+  "BTC-JPY_bollinger": {
+    "symbol": "BTC-JPY",
+    "strategy": "bollinger",
+    "annual_return": -0.9969418062349126,
+    "win_rate": 0.5614035087719298,
+    "total_trades": 57,
+    "final_capital": 2.685311444587286e-09,
+    "max_profit": 7.4146626614303415,
+    "max_loss": -95.72384098125796
+  },
+  "BTC-JPY_multi": {
+    "symbol": "BTC-JPY",
+    "strategy": "multi",
+    "annual_return": 0.0,
+    "win_rate": 0,
+    "total_trades": 0,
+    "final_capital": 10000,
+    "max_profit": 0,
+    "max_loss": 0
+  },
+  "ETH-JPY_rsi": {
+    "symbol": "ETH-JPY",
+    "strategy": "rsi",
+    "annual_return": -1.0,
+    "win_rate": 0.4878048780487805,
+    "total_trades": 82,
+    "final_capital": 7.271831362369997e-15,
+    "max_profit": 78.1098803343368,
+    "max_loss": -325.88747145636347
+  },
+  "ETH-JPY_macd": {
+    "symbol": "ETH-JPY",
+    "strategy": "macd",
+    "annual_return": -0.9993563568178687,
+    "win_rate": 0.4444444444444444,
+    "total_trades": 72,
+    "final_capital": 1.2248527508561854e-12,
+    "max_profit": 184.53570897837218,
+    "max_loss": -37.547884296876404
+  },
+  "ETH-JPY_ma_crossover": {
+    "symbol": "ETH-JPY",
+    "strategy": "ma_crossover",
+    "annual_return": -0.9914705120477392,
+    "win_rate": 0.5319148936170213,
+    "total_trades": 47,
+    "final_capital": 4.529293993230573e-07,
+    "max_profit": 117.44923406190452,
+    "max_loss": -134.2051223186784
+  },
+  "ETH-JPY_bollinger": {
+    "symbol": "ETH-JPY",
+    "strategy": "bollinger",
+    "annual_return": -0.9958417618872791,
+    "win_rate": 0.5185185185185185,
+    "total_trades": 54,
+    "final_capital": 1.2478873280119137e-08,
+    "max_profit": 508.69465865168803,
+    "max_loss": -144.51045046952092
+  },
+  "ETH-JPY_multi": {
+    "symbol": "ETH-JPY",
+    "strategy": "multi",
+    "annual_return": 0.0,
+    "win_rate": 0,
+    "total_trades": 0,
+    "final_capital": 10000,
+    "max_profit": 0,
+    "max_loss": 0
+  },
+  "XRP-JPY_rsi": {
+    "symbol": "XRP-JPY",
+    "strategy": "rsi",
+    "annual_return": -1.0,
+    "win_rate": 0.5473684210526316,
+    "total_trades": 95,
+    "final_capital": 1.5482906234218426e-17,
+    "max_profit": 92.66843976805146,
+    "max_loss": -242.53150809828165
+  },
+  "XRP-JPY_macd": {
+    "symbol": "XRP-JPY",
+    "strategy": "macd",
+    "annual_return": -0.9993563568178687,
+    "win_rate": 0.3,
+    "total_trades": 70,
+    "final_capital": 1.5482709865103996e-12,
+    "max_profit": 157.0712413586303,
+    "max_loss": -132.1086801083363
+  },
+  "XRP-JPY_ma_crossover": {
+    "symbol": "XRP-JPY",
+    "strategy": "ma_crossover",
+    "annual_return": -0.992777902935211,
+    "win_rate": 0.4166666666666667,
+    "total_trades": 48,
+    "final_capital": 1.9714395074818482e-07,
+    "max_profit": 457.055598141792,
+    "max_loss": -17.780546061583905
+  },
+  "XRP-JPY_bollinger": {
+    "symbol": "XRP-JPY",
+    "strategy": "bollinger",
+    "annual_return": -0.9972037602897774,
+    "win_rate": 0.5,
+    "total_trades": 58,
+    "final_capital": 1.716158561611133e-09,
+    "max_profit": 413.6185513628813,
+    "max_loss": -256.4463474619544
+  },
+  "XRP-JPY_multi": {
+    "symbol": "XRP-JPY",
+    "strategy": "multi",
+    "annual_return": 0.0,
+    "win_rate": 0,
+    "total_trades": 0,
+    "final_capital": 10000,
+    "max_profit": 0,
+    "max_loss": 0
+  },
+  "BCH-JPY_rsi": {
+    "symbol": "BCH-JPY",
+    "strategy": "rsi",
+    "annual_return": -1.0,
+    "win_rate": 0.616822429906542,
+    "total_trades": 107,
+    "final_capital": 5.322145237699593e-20,
+    "max_profit": 72.64510900214307,
+    "max_loss": -201.02628652844774
+  },
+  "BCH-JPY_macd": {
+    "symbol": "BCH-JPY",
+    "strategy": "macd",
+    "annual_return": -1.0,
+    "win_rate": 0.47435897435897434,
+    "total_trades": 78,
+    "final_capital": 4.8012739252240207e-14,
+    "max_profit": 119.20655551027244,
+    "max_loss": -45.79861427037474
+  },
+  "BCH-JPY_ma_crossover": {
+    "symbol": "BCH-JPY",
+    "strategy": "ma_crossover",
+    "annual_return": -0.9962408845574207,
+    "win_rate": 0.4,
+    "total_trades": 55,
+    "final_capital": 7.535005161123098e-09,
+    "max_profit": 100.38632413298998,
+    "max_loss": -254.15536803219982
+  },
+  "BCH-JPY_bollinger": {
+    "symbol": "BCH-JPY",
+    "strategy": "bollinger",
+    "annual_return": -0.9969362629509319,
+    "win_rate": 0.5087719298245614,
+    "total_trades": 57,
+    "final_capital": 2.7099759641098456e-09,
+    "max_profit": 396.36799204368805,
+    "max_loss": -58.4279572753941
+  },
+  "BCH-JPY_multi": {
+    "symbol": "BCH-JPY",
+    "strategy": "multi",
+    "annual_return": 0.0,
+    "win_rate": 0,
+    "total_trades": 0,
+    "final_capital": 10000,
+    "max_profit": 0,
+    "max_loss": 0
+  },
+  "LTC-JPY_rsi": {
+    "symbol": "LTC-JPY",
+    "strategy": "rsi",
+    "annual_return": -1.0,
+    "win_rate": 0.594059405940594,
+    "total_trades": 101,
+    "final_capital": 1.0843024486561695e-18,
+    "max_profit": 223.08567508303858,
+    "max_loss": -58.97263397341239
+  },
+  "LTC-JPY_macd": {
+    "symbol": "LTC-JPY",
+    "strategy": "macd",
+    "annual_return": -1.0,
+    "win_rate": 0.4520547945205479,
+    "total_trades": 73,
+    "final_capital": 4.769580913110084e-13,
+    "max_profit": 100.10281322704249,
+    "max_loss": -177.8918394233703
+  },
+  "LTC-JPY_ma_crossover": {
+    "symbol": "LTC-JPY",
+    "strategy": "ma_crossover",
+    "annual_return": -0.9926236941569041,
+    "win_rate": 0.3958333333333333,
+    "total_trades": 48,
+    "final_capital": 2.1910539312727755e-07,
+    "max_profit": 191.92987237057233,
+    "max_loss": -301.6517232603158
+  },
+  "LTC-JPY_bollinger": {
+    "symbol": "LTC-JPY",
+    "strategy": "bollinger",
+    "annual_return": -0.9965640856614812,
+    "win_rate": 0.4642857142857143,
+    "total_trades": 56,
+    "final_capital": 4.807795883057933e-09,
+    "max_profit": 463.0981577327555,
+    "max_loss": -152.11094174634343
+  },
+  "LTC-JPY_multi": {
+    "symbol": "LTC-JPY",
+    "strategy": "multi",
+    "annual_return": 0.0,
+    "win_rate": 0,
+    "total_trades": 0,
+    "final_capital": 10000,
+    "max_profit": 0,
+    "max_loss": 0
+  }
+}
